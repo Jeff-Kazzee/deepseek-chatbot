@@ -94,6 +94,9 @@ export default function App() {
           🔒 We do not save any chat data or personal information. You're chatting with free AI models. 
           Email subscription is optional for future project updates only.
         </p>
+        <p className="mt-2">
+          Built by <span className="text-primary">Jeff Kazzee</span> • Open Source DeepSeek Chat Interface
+        </p>
       </footer>
       <Toaster />
     </div>
