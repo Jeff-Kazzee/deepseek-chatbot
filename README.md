@@ -18,9 +18,19 @@ The frontend is built with React and Vite, featuring a nostalgic MS-DOS design.
 
 ## Getting Started
 
-1. Get your API key from [OpenRouter](https://openrouter.ai/keys)
-2. Enter your API key in the Settings panel
-3. Start chatting with free DeepSeek models
+1.  **Obtain an API Key:**
+    *   Navigate to [OpenRouter.ai/keys](https://openrouter.ai/keys).
+    *   Sign up or log in.
+    *   Create a new key. Copy this key to your clipboard.
+
+2.  **Configure the API Key in DeepSeek Chat:**
+    *   Launch the DeepSeek Chat application.
+    *   On the left-hand side, you will find the "Settings" panel.
+    *   Paste your OpenRouter API key into the "OpenRouter API Key" input field.
+    *   Click the "Save Key" button. The key will be saved in your browser's local storage for future sessions.
+
+3.  **Start Chatting:**
+    *   Once the API key is saved, you can select your desired model and start your conversation with DeepSeek!
 
 ## Development
 
